@@ -18,3 +18,14 @@
 
     background-color: #eaee2b;
 }
+
+/*CARROUSEL*/
+
+.letraCarrousel {
+    color: black;
+    background-color: #eaee2b;
+    text-align: center;
+    border-color: blanchedalmond;
+    border-width: 10%;
+}
+
