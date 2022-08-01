@@ -16,6 +16,24 @@ h5:hover {
     color: #eaee2b;
 }
 
+.imagenHoteleria:hover {
+    height: 110%;
+    width: 110%;
+}
+
+.imagenPlomer:hover {
+    height: 110%;
+    width: 110%;
+}
+.imagenGastro:hover {
+    height: 110%;
+    width: 110%;
+}
+.imagenEventos:hover {
+    height: 110%;
+    width: 110%;
+}
+
 /*FORMULARIO DE REGISTRO*/
 
 .botonRegistro {
