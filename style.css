@@ -12,6 +12,10 @@
     background-color: black;
 }
 
+h5:hover {
+    color: #eaee2b;
+}
+
 /*FORMULARIO DE REGISTRO*/
 
 .botonRegistro {
@@ -38,4 +42,28 @@
     background-color: black;
     
 }
+
+/*MEDIA QUERY CELU*/
+
+@media (max-width: 768px) {
+    body {
+        background-color: black;        
+    }
+
+    h5 { color: #eaee2b;}
+
+    h2 { color: #eaee2b;}
+
+    .navbar {
+        background-color: #eaee2b;
+    }
+    
+    }
+    
+/*MEDIA QUERY TABLET*/ 
+
+@media (min-width: 769px) and (max-width: 1199px) {
+
+}
+
 
