@@ -84,4 +84,13 @@ h5:hover {
 
 }
 
+h2 {
+    text-align: center;
+    margin: 2%;
+    background-color: #eaee2b ;
+}
+
+.subtitulo {
+    font-size: 20px;
+}
 
