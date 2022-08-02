@@ -1,3 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
 /*HEADER*/
 .tamLogo {
     width: 50%;
@@ -34,6 +42,14 @@ h5:hover {
     width: 110%;
 }
 
+h3 {
+
+    font-size: 130%;
+    
+}
+
+
+
 /*FORMULARIO DE REGISTRO*/
 
 .botonRegistro {
@@ -61,6 +77,8 @@ h5:hover {
     
 }
 
+
+
 /*MEDIA QUERY CELU*/
 
 @media (max-width: 768px) {
@@ -76,6 +94,10 @@ h5:hover {
         background-color: #eaee2b;
     }
     
+    }
+
+    .btn {
+       background-color: #eaee2b;
     }
     
 /*MEDIA QUERY TABLET*/ 
@@ -96,6 +118,11 @@ h2 {
 
 .botonSumate {
     background-color: black;
-    align-content: right;
+    
     
 }
+
+.botonSum {
+        background-color: black;
+}
+
